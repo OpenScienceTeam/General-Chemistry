@@ -25,7 +25,6 @@ site:
     logo: favicon.ico
     style: ./css/footer.css
     favicon: favicon.ico
-    baseUrl: /General-Chemistry/
   nav:
     - title: Book
       url: /chapter2
