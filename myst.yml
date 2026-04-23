@@ -12,6 +12,9 @@ project:
   # authors: []
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  jupyter:
+    binder:
+      repo: https://github.com/binder-examples/requirements # default repo
 site:
   template: book-theme
   title: General Chemistry
