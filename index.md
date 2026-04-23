@@ -1,5 +1,5 @@
 ---
-title: Welcome to Open Science
+title: General Chemistry
 site:
   hide_title_block: true
   hide_toc: true
@@ -9,13 +9,13 @@ site:
 
 +++ { "kind": "split-image" }
 
-## Welcome to Open Science
+## Welcome to General Chemistry
 
-An open-source knowledge database, interactive, neural network formation, with AI
+<!-- An open-source knowledge database, interactive, neural network formation, with AI -->
 ![](https://raw.githubusercontent.com/rowanc1/pics/refs/heads/main/banff-tall.png)
 <!-- ![brain](./images/brain.png) -->
 
-{button}`Get Started </intro>`
+{button}`Get Started </chapter2>`
 
 +++
 

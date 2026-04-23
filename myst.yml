@@ -2,6 +2,10 @@
 version: 1
 project:
   id: a5ae4263-ce88-42d9-950c-81c20e000455
+  toc:
+    - file: index.md
+    - file: chapter2.md
+    - file: chapter2.ipynb
   # title:
   # description:
   # keywords: []
@@ -10,6 +14,12 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  title: General Chemistry
+  logo: favicon.ico
+  baseUrl: https://openscienceteam.github.io/OpenScience/
+  nav:
+    - title: Book
+      url: /chapter2
+  actions:
+    - title: OpenScienceTeam
+      url: https://github.com/OpenScienceTeam
