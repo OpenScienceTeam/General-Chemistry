@@ -8,7 +8,7 @@ project:
     - file: chapter2.ipynb
   # title:
   # description:
-  # keywords: []
+  authors: [OpenScienceTeam]
   # authors: []
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
@@ -23,6 +23,7 @@ site:
     hide_outline: false  # Hide the outline (the floating table of contents)
     logo_text: General Chemistry
     logo: favicon.ico
+    style: ./css/footer.css
     favicon: favicon.ico
     baseUrl: /General-Chemistry/
   nav:
@@ -33,3 +34,7 @@ site:
   actions:
     - title: OpenScienceTeam
       url: https://github.com/OpenScienceTeam
+  parts:
+    footer: footer.md
+    primary_sidebar_footer: primary-sidebar-footer.md
+  domains: []
