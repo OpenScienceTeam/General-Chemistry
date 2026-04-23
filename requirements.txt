@@ -48,9 +48,9 @@ six==1.17.0
     # via python-dateutil
 tzdata==2025.1
     # via pandas
-plotly==5.15.0
+plotly
     # via -r requirements.in
-anywidget==0.0.3
+anywidget
     # via -r requirements.in
-ipywidgets==8.0.4
+ipywidgets
     # via -r requirements.in
