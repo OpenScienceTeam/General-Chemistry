@@ -24,7 +24,7 @@ site:
     logo_text: General Chemistry
     logo: favicon.ico
     favicon: favicon.ico
-    baseUrl: https://openscienceteam.github.io/General-Chemistry/
+    baseUrl: /General-Chemistry/
   nav:
     - title: Book
       url: /chapter2
