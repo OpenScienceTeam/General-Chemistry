@@ -25,6 +25,8 @@ site:
   nav:
     - title: Book
       url: /chapter2
+    - title: OpenScience
+      url: https://openscienceteam.github.io/OpenScience/
   actions:
     - title: OpenScienceTeam
       url: https://github.com/OpenScienceTeam
